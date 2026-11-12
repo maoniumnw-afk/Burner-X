@@ -1,7 +1,7 @@
 ---
 id: REQ-105
 type: ppt_asset
-status: pending
+status: completed
 source_agent: antigravity-cli-local
 execution_mode: lead_agent_inbox
 aspect_ratio: 16:9
